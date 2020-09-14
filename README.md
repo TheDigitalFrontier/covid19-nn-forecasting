@@ -7,8 +7,7 @@
 **Spring 2020**<br/>
 **Team members**: William Seaton, Johannes Kolberg, Hardik Gupta
 
-
-<hr style="height:2pt">
+----
 
 **Summary**: Accurate understanding of the severity and spread of the novel coronavirus COVID-19 is critical to implementing an effective public health response. As with any novel virus, COVID-19 has unique characteristics and data challenges that make accurate modeling difficult and there has been much public debate about the correct methodology and resulting output that we should use to guide our decisions. We propose various methods based on the architecture of Recurrent Neural Networks and discuss their accuracy and usability for predicting COVID-19 case growth at various time lengths.
 
